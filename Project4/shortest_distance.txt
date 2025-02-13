@@ -1,0 +1,5 @@
+Source: C
+Destination: F
+
+Dijkstra: C -> E -> D -> F with a total cost of 13
+BFS: C -> E -> F with a total cost of 15

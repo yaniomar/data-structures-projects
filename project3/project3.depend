@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733937975 source:c:\users\asus\onedrive\desktop\project3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1735564068 source:c:\users\asus\onedrive\desktop\bzu\year 2\data structure\project3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

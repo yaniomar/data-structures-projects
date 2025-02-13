@@ -1,0 +1,3 @@
+Addition result: 5X^3-X^2+6X+10
+Subtraction result: -5X^3-X^2-6X-10
+Multiplication result: -1200X^8+1440X^7-624X^6+96X^5

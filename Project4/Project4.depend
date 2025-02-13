@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1736189577 source:c:\users\asus\onedrive\desktop\bzu\year 2\data structure\project4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+

@@ -1,0 +1,6 @@
+Asiraaa:asiraaa:3333:333:yes
+AlQuds:Hezma:5000:550:yes
+AlQuds:Qatanna:3000:300:no
+Ramallah:shgh:2222:222:no
+Nablus:Asira:8000:350:yes
+fd:Asira:16777216:128:no
